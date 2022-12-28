@@ -175,4 +175,4 @@ I am a programmer all of my life, since my 19, learning by myself primarily. Now
 <hr>
 <br>
 
-Here is my [eMail](mailto:axiom88guru@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/IbRDhNJhiv1n).
+Here is my [eMail](mailto:davidjin20001116@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/CUHDh31VDL3q).
