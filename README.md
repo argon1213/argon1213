@@ -24,6 +24,17 @@ Here are some ideas to get you started:
 <br>
 
 
+### About me
+
+- I never throw my earphones or headphones away when they break, so I can fix one using the other.
+- I've made a **Minecraft** mod when I was a teenager and also a showcase on [YouTube](https://youtu.be/bGlQ9oIFqCk).
+- I fix my computer myself since when I was a kid and just let others do after I try.
+- I have some difficult to talk with others at the beginning but then I can't stop.
+- I have some **terrible** karaoke records on [Smule](https://www.smule.com/relbeits).
+- I love to be challenged and help others with theirs.
+- I've been programming for 10 years but only now (2022) I've became confident with my programming skills.
+
+
 I am a programmer all of my life, since my 19, learning by myself primarily. 
 Now I am focused MERN Stack, Next, TypeScript, Vue, Angular as well as web/mobile programming using React Native. 
 Many projects I have done as a full-stack developer because when it's small or medium, I can provide fast pace and clean result. 
