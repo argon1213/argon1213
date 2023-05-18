@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 - I am a programmer all of my life, since my 19, learning by myself primarily.
 - Now I am focused MERN Stack, Next, TypeScript, Vue, Angular as well as web/mobile programming using React Native. 
 - Many projects I have done as a full-stack developer because when it's small or medium, I can provide fast pace and clean result. 
+- PHP, Laravel, Wordpress...
+- Ecommerce, Shopify, Bubble..
+- Blockchain/cryptocurrency, NFT...
 - I like a positive or neutral emotional state in working, I like clearly defined goals.
 - When it's not well decided, I often can provide my expertness in web-development to help a customer choose a set of features, or make more effective infrastructure. 
 - I love to be challenged and help others with theirs.
