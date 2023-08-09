@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### About me
 
 - I am a programmer all of my life, since my 19, learning by myself primarily.
-- Now I am focused MERN Stack, Next, TypeScript, Vue, Angular as well as web/mobile programming using React Native. 
+- Now I am focused MERN Stack, Next, TypeScript, Vue, Angular as well as web/mobile programming using React Native and Flutter. 
 - Many projects I have done as a full-stack developer because when it's small or medium, I can provide fast pace and clean result. 
 - PHP, Laravel, Wordpress...
 - Ecommerce, Shopify, Bubble..
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) )
 - 🥇 Backend Development: [Ruby on Rails](https://thegraph.com/) [Node.js](https://nodejs.org), [PHP](https://www.php.net/), [Symfony](https://symfony.com/),  [Laravel](https://laravel.com/)
-- 🥇 Hybrid Mobile App Development: [React Native](https://reactjs.org/)
+- 🥇 Hybrid Mobile App Development: [React Native](https://reactjs.org/), [Flutter](https://docs.flutter.dev)
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
