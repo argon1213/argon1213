@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ### About me
 
 - I am a programmer all of my life, since my 19, learning by myself primarily.
-- Now I am focused MERN Stack, Next, TypeScript, Vue, Angular as well as web/mobile programming using React Native and Flutter. 
+- Mobile development using React Native, Flutter.
+- Now I am focused MERN Stack, Next, TypeScript, Vue, Angular as well as web programming.
 - Many projects I have done as a full-stack developer because when it's small or medium, I can provide fast pace and clean result. 
 - PHP, Laravel, Wordpress...
 - Ecommerce, Shopify, Bubble..
