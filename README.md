@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 
 - 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) )
-- 🥇 Backend Development: [Ruby on Rails](https://thegraph.com/) [Node.js](https://nodejs.org), [PHP](https://www.php.net/), [Symfony](https://symfony.com/),  [Laravel](https://laravel.com/)
+- 🥇 Backend Development: [Ruby on Rails](https://thegraph.com/) [Node.js](https://nodejs.org), [PHP](https://www.php.net/), [Symfony](https://symfony.com/),  [Laravel](https://laravel.com/), [Java](https://docs.oracle.com/en/java/), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 - 🥇 Hybrid Mobile App Development: [React Native](https://reactjs.org/), [Flutter](https://docs.flutter.dev)
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
