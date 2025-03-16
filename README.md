@@ -186,5 +186,3 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <br>
-
-Here is my [eMail](mailto:hugeblackhole991213@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/BpAyVsy2BcmI).
